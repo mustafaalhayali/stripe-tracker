@@ -17,7 +17,7 @@ A simple macOS menu bar application that displays your Stripe revenue metrics in
 
 ## Demo
 
-https://github.com/mustafaalhayali/stripe-tracker/blob/main/striperev.mp4
+<iframe width="560" height="315" src="https://github.com/mustafaalhayali/stripe-tracker/blob/main/striperev.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Watch StripeTracker in action - see how it displays real-time revenue metrics in your macOS menu bar_
 
